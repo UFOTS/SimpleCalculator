@@ -52,4 +52,4 @@ elif "rem" in ts:
 else:
     print("Type correctly")
 
-print("Thank You !!! This Is Made By T.Sujeeth")
+print("Thank You !!! This Is programmed by UFO")
